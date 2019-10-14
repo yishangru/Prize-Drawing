@@ -10,4 +10,4 @@ User can directly run the .exe under this project. This executable program is ex
 
 **Change picture (sustc.jpg and logo.png) with same name to display different logos**
 
-![Program](/screenshoot.PNG =600x350)
+![Program](https://github.com/yishangru/PrizeDrawing/blob/master/screenshot.PNG =600x350)
