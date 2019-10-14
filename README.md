@@ -8,4 +8,4 @@ User can directly run the .exe under this project. This executable program is ex
 
 **Update namelist.xlsx to change candidate list**
 
-**change picture (.jpg and .png) with same name to display different logo**
+**Change picture (.jpg and .png) with same name to display different logos**
