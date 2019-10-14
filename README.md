@@ -10,4 +10,4 @@ User can directly run the .exe under this project. This executable program is ex
 
 **Change picture (sustc.jpg and logo.png) with same name to display different logos**
 
-![Program](/screenshoot.png =600x350)
+![Program](/screenshoot.PNG =600x350)
